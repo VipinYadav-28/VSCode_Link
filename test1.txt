@@ -1,3 +1,5 @@
-this is my frist vs code file in github.com
+this is my first vs code file in github.com
 
-2nd day coding
+2nd day code test for
+
+3rd day code test 
